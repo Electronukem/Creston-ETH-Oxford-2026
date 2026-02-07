@@ -1,0 +1,5 @@
+{
+  "name": "Creston",
+  "description": "A simulated Words with Friends extension that rewards winners with FLR coins on Flare blockchain.",
+  "requestFramePermissions": []
+}
